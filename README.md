@@ -2,7 +2,7 @@
 
 Help us add more electric vehicles to the [Smart EV Emergency Response Guide](https://play.google.com/store/apps/details?id=com.example.ev_mobile) app — used by first responders to quickly look up EV rescue procedures during emergencies.
 
-**We need rescue sheet PDFs for EVs not yet in the app.** That's it!
+**We need rescue sheet PDFs for EVs not yet in the app. Want to add your vehicle???** 
 
 ---
 
@@ -13,7 +13,7 @@ Help us add more electric vehicles to the [Smart EV Emergency Response Guide](ht
 3. **Tell us** the make, model, and where you found it
 4. **We handle the rest** — we'll review it, process it, and push it to the app
 
-Once approved, the vehicle will appear in the app for all users automatically. No coding or technical knowledge needed!
+Once approved, the vehicle will appear in the app for all users automatically.
 
 ---
 
@@ -92,3 +92,4 @@ Open an [Issue](../../issues/new) — happy to help!
 ## License
 
 Submitted rescue sheet PDFs remain the intellectual property of their respective manufacturers. This repository organizes publicly available safety documents for use in emergency response applications.
+
