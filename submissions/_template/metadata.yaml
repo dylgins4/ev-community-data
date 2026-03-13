@@ -1,0 +1,10 @@
+# Vehicle Metadata Template
+# Copy this directory to submissions/MAKE_MODEL/ and fill in the fields below.
+
+make: ""                    # e.g., "BYD", "Fiat", "Xiaomi"
+model: ""                   # e.g., "Seal", "500e", "SU7"
+year_range: ""              # e.g., "2023-2025"
+source_url: ""              # URL where the rescue sheet was downloaded
+source_type: "rescue_sheet" # rescue_sheet | erg | other
+language: "en"
+submitter_notes: ""         # Optional: anything reviewers should know
