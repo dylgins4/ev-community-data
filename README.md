@@ -1,6 +1,6 @@
 # Smart EV Guides — Community Vehicle Data
 
-Help us add more electric vehicles to the [Smart EV Guidess](https://apps.apple.com/us/app/smart-ev-guides/id6755702439) app — used by first responders to quickly look up EV rescue procedures during emergencies.
+Help us add more electric vehicles to the [Smart EV Guides](https://apps.apple.com/us/app/smart-ev-guides/id6755702439) app — used by first responders to quickly look up EV rescue procedures during emergencies.
 
 **We need rescue sheet PDFs for EVs not yet in the app. Want to add your vehicle???** 
 
@@ -92,5 +92,6 @@ Open an [Issue](../../issues/new) — happy to help!
 ## License
 
 Submitted rescue sheet PDFs remain the intellectual property of their respective manufacturers. This repository organizes publicly available safety documents for use in emergency response applications.
+
 
 
